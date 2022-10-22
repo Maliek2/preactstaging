@@ -3,7 +3,7 @@ import style from './style.css';
 
 const Home = () => (
 	<div class={style.home}>
-		<h1>Home Feed</h1>
+		<h1>Home News</h1>
 		<p>By downloading or using the app, these terms will
                   automatically apply to you – you should make sure therefore
                   that you read them carefully before using the app. You’re not
@@ -13,7 +13,10 @@ const Home = () => (
                   to translate the app into other languages or make derivative
                   versions. The app itself, and all the trademarks, copyright,
                   database rights, and other intellectual property rights related
-                  to it, still belong to Maliek Galant.</p>
+                  to it, still belong to Maliek Galant.
+
+
+               </p>
                 
                   
 </div>
