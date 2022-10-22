@@ -1,8 +1,8 @@
 {
   "name": "Maliek App",
-  "short_name": "malieknews",
+  "short_name": "Maliek's App",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#673ab8",
